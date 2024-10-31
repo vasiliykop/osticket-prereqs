@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system "osTicket" On Windows 10 in Azure Virtual Machine. .<br />
 
 
 
@@ -51,7 +51,7 @@ CGI and Common HTTP Features
 <br/>
 
 <p>
-  3. From the installation file download and install  PHP MANAGER FOR IIS (PHPManagerForIIS_V1.5.0.msi)
+  3. Download and install  PHP MANAGER FOR IIS (PHPManagerForIIS_V1.5.0.msi)
 </p>
 <p>
   <img src="https://github.com/vasiliykop/osticket-prereqs/assets/170582503/4ba62350-611c-4862-970d-400cb23d828b
@@ -60,7 +60,7 @@ CGI and Common HTTP Features
 
 <br/>
 <p>
-  4. From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+  4.Download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 </p>
 <br>
@@ -73,7 +73,7 @@ CGI and Common HTTP Features
 <br/>
 
 <p>
-   6. From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+   6. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 </p>
 <p>
   <img src="https://github.com/vasiliykop/osticket-prereqs/assets/170582503/db2a0c34-c73b-490c-ac1d-e6b69f936cc4">
@@ -81,12 +81,12 @@ CGI and Common HTTP Features
 <br/>
 
 <p>
-  7.From the Installation Files, download and install VC_redist.x86.exe.
+  7. Download and install VC_redist.x86.exe.
 
 </p>
 <br/>
 <p>
-  8.From the Installation Files, download and install MySQL 5.5.62 
+  8 Download and install MySQL 5.5.62 
 
 <p/>  
 <p>
